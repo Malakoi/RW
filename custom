@@ -1,6 +1,5 @@
 {
   "room": "Rock Wins"
-  "author": "Kenan"
   "css": 
   "rules": {
   "allowAutorespond":     true,
@@ -12,4 +11,40 @@
   "allowShowingMehs":     true,
   "forceSmartVote":       false
   },
+  "images": {
+  "background":
+  "playback": null,
+	 "admin": null,
+	 "ambassador": null,
+	 "host": null,
+	 "cohost": null,
+	 "manager": null,
+	 "bouncer": null,
+	 "rdj": null, 
+	 "silversubscriber": null,
+	 "subscriber": null
+  },
+  "emotes": {
+  ".v.": "https://i.imgur.com/C79uctl.gif",
+  "axl": "https://i.imgur.com/eaYZ3m7.gif",
+  "kappagif": "https://i.imgur.com/ImGltes.gif",
+  "dirp": "https://i.imgur.com/ZaC7iBS.jpg",
+  "fatality": "https://i.imgur.com/QDiLcwq.gif",
+  "fuckyea": "https://i.imgur.com/rPGedvQ.png",
+  "igor": "https://i.imgur.com/vwmObLG.png",
+  "lennygif": "https://i.imgur.com/OSdFEcj.gif",
+  "mrbean": "https://i.imgur.com/zGMdKSM.png",
+  "notsureif": "https://i.imgur.com/4jPyRG2.png",
+  "okay": "https://i.imgur.com/BpQWgTs.gif",
+  "smoke": "https://i.imgur.com/OnNLzcA.gif",
+  "tom": "https://i.imgur.com/dLxtSmc.png",
+  "ui": "https://i.imgur.com/se9HkCG.png",
+  "varg": "https://i.imgur.com/MR59IZ9.png",
   
+  
+  
+  
+  
+  
+  
+  "author": "Kenan"
