@@ -1,6 +1,6 @@
 {
-  "room": "Rock Wins"
-    "author": "Kenan"
+  "room": "Rock Wins",
+    	"author": "Kenan",
   "css": 
   "rules": {
   	"allowAutorespond":     true,
@@ -13,7 +13,7 @@
   	"forceSmartVote":       false
   },
   "images": {
-  	"background":
+  	"background": 
   	"playback": null,
 	"admin": null,
 	"ambassador": null,
@@ -202,8 +202,8 @@
   	"kkjj": "https://i.imgur.com/SPtRNNj.gif",
   	"lávem": "http://i.imgur.com/bJaCNLC.jpg",
   	"legal": "https://i.imgur.com/NAvDJFl.jpg",
-      	"lennyface": "https://i.imgur.com/g4zRJ9C.jpg",
-      	"lennygif": "https://i.imgur.com/OSdFEcj.gif",
+  	"lennyface": "https://i.imgur.com/g4zRJ9C.jpg",
+  	"lennygif": "https://i.imgur.com/OSdFEcj.gif",
       	"léostronda": "https://i.imgur.com/tsv7zX4.png",
       	"ler": "https://i.imgur.com/dP3k6pR.jpg",
       	"lhama": "https://i.imgur.com/uUNdVs7.gif",
@@ -214,8 +214,25 @@
       	"maigode2": "https://i.imgur.com/n79SjXm.jpg",
       	"mandanude": "https://i.imgur.com/PTYLcye.png",
   	"madruga2": "https://i.imgur.com/4PmDlUU.gif",
+  	"marina": "https://i.imgur.com/UHRpp4d.png",
   	"masoq":"https://i.imgur.com/eFcgw0R.gif",
-  	"mrbean": "https://i.imgur.com/zGMdKSM.png",
+        "mehh": "http://i.imgur.com/6lYPeQO.jpg",
+      	"mehmute": "https://i.imgur.com/t6SN0IE.png",
+      	"mentira": "https://i.imgur.com/qeZB5PW.jpg",
+      	"meobrigue": "https://i.imgur.com/HrfUfMS.png",
+      	"michael": "https://dl.dropboxusercontent.com/s/zlqyshqmfnru8ko/michael.gif",
+      	"mizeravi": "https://i.imgur.com/4ILWtwV.png",
+	"mlg": "https://i.imgur.com/vKXhX8b.gif",
+  	"monalicia": "https://i.imgur.com/35Jrx9b.png",
+      	"monstrogif": "https://i.imgur.com/15hqUd0.gif",
+	"mrbean": "https://i.imgur.com/zGMdKSM.png",
+  	"morre": "https://i.imgur.com/B100qjp.gif",
+  	"morrison": "https://i.imgur.com/6g3PA6d.gif",
+      	"nadave": "https://i.imgur.com/IydoxRH.png",
+      	"nao": "https://i.imgur.com/XGAXb3O.png",
+      	"nao1": "https://i.imgur.com/30Yl6Hk.jpg",
+      	"naocreio": "https://i.imgur.com/CNSxy3B.jpg",
+	"nãosei": "https://i.imgur.com/QoPAHYd.png",
   	"notsureif": "https://i.imgur.com/4jPyRG2.png",
   	"okay": "https://i.imgur.com/BpQWgTs.gif",
   	"opinião": "http://i.imgur.com/x7F2b6Q.gif",
