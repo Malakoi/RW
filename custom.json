@@ -1,7 +1,7 @@
 {
   "room": "Rock Wins",
     	"author": "Kenan",
-   
+   	"css": "null",
   "rules":{
   	"allowAutorespond":	true,
   	"allowAutowoot":	true,
@@ -13,7 +13,7 @@
   	"forceSmartVote":	false,
   },
   "images":{
-
+	"background": "null",
   	"playback": null,
 	"admin": null,
 	"ambassador": null,
