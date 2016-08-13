@@ -10,7 +10,7 @@
   	"allowSmartVote":       true,
   	"allowEmotes":          true,
   	"allowShowingMehs":     true,
-  	"forceSmartVote":       false
+  	"forceSmartVote":       false,
   },
   "images": {
   	"background": 
@@ -23,7 +23,7 @@
 	"bouncer": null,
 	"rdj": null, 
 	"silversubscriber": null,
-	"subscriber": null
+	"subscriber": null,
   },
   "emotes": {
   	".v.": "https://i.imgur.com/C79uctl.gif",
