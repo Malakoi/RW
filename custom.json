@@ -3,14 +3,14 @@
     	"author": "Kenan",
   "css": 
   "rules": {
-  	"allowAutorespond":     true,
-  	"allowAutowoot":        true,
-  	"allowAutojoin":        false,
-  	"allowAutograb":        true,
-  	"allowSmartVote":       true,
-  	"allowEmotes":          true,
-  	"allowShowingMehs":     true,
-  	"forceSmartVote":       false,
+  	"allowAutorespond":	true,
+  	"allowAutowoot":	true,
+  	"allowAutojoin":	false,
+  	"allowAutograb":	true,
+  	"allowSmartVote":	true,
+  	"allowEmotes":		true,
+  	"allowShowingMehs":	true,
+  	"forceSmartVote":	false,
   },
   "images": {
   	"background": 
