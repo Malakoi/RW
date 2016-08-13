@@ -2,7 +2,7 @@
   "room": "Rock Wins",
     	"author": "Kenan",
   "css": 
-  "rules": {
+  "rules":{
   	"allowAutorespond":	true,
   	"allowAutowoot":	true,
   	"allowAutojoin":	false,
@@ -12,7 +12,7 @@
   	"allowShowingMehs":	true,
   	"forceSmartVote":	false,
   },
-  "images": {
+  "images":{
   	"background": 
   	"playback": null,
 	"admin": null,
