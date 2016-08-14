@@ -1,8 +1,8 @@
 {
   "room": "Rock Wins",
-    	"author": "Kenan-plugdj",
-   	"css": "null",
-  "rules":{
+    	"author": "Kenan",
+
+  "rules": {
   	"allowAutorespond":	true,
   	"allowAutowoot":	true,
   	"allowAutojoin":	false,
@@ -12,7 +12,7 @@
   	"allowShowingMehs":	true,
   	"forceSmartVote":	false,
   },
-  "images":{
+  "images": {
 	"background": null,
   	"playback": null,
 	"admin": null,
