@@ -1,32 +1,47 @@
 {
-  "room": "Rock Wins",
-    	"author": "Kenan",
-
-  "rules": {
-  	"allowAutorespond":	true,
-  	"allowAutowoot":	true,
-  	"allowAutojoin":	false,
-  	"allowAutograb":	true,
-  	"allowSmartVote":	true,
-  	"allowEmotes":		true,
-  	"allowShowingMehs":	true,
-  	"forceSmartVote":	false,
-  },
-  "images": {
-	"background": null,
-  	"playback": null,
+"room": "Rock Wins",
+"author": "Kenan",
+"css": null,
+"rules": {
+	"allowAutorespond": true,
+      	"allowAutowoot": true,
+      	"allowAutojoin": false,
+      	"allowAutograb": true,
+      	"allowSmartVote": true,
+ 	"allowEmotes": true,
+      	"allowShowingMehs": true,
+      	"forceSmartVote": false
+},
+"ccc": {
 	"admin": null,
-	"ambassador": null,
-	"host": null,
-	"cohost": null,
-	"manager": null,
-	"bouncer": null,
-	"rdj": null, 
-	"silversubscriber": null,
-	"subscriber": null,
-  },
-  "emotes": {
-  	".v.": "https://i.imgur.com/C79uctl.gif",
+      	"ambassador": null,
+      	"host": null,
+      	"cohost": null,
+      	"manager": null,
+      	"bouncer": null,
+      	"rdj": null,
+      	"subscriber": null,
+      	"silversubscriber": null,
+      	"friend": null,
+      	"user": null
+},
+"images": {
+      	"background": null,
+      	"playback": null,
+      	"admin": null,
+      	"ambassador": null,
+      	"host": null,
+      	"cohost": null,
+      	"manager": null,
+      	"bouncer": null,
+      	"rdj": null
+      	"subscriber": null,
+      	"silversubscriber": null
+},
+   
+   
+"emotes": {
+	".v.": "https://i.imgur.com/C79uctl.gif",
   	"100%": "https://i.imgur.com/nhz07pH.jpg",
   	"acabou": "https://imgur.com/vfN1hJq.jpg",
   	"aff2": "https://i.imgur.com/TptfW9T.jpg",
@@ -323,7 +338,7 @@
   	"toma2": "https://i.imgur.com/Tgen56Z.jpg",
       	"trap": "https://i.imgur.com/U2UGB8D.png",
       	"travolta": "http://i.imgur.com/LV9oh8b.gif",
-  	 "trem": "http://i.imgur.com/P6xbY6a.gif",
+  	"trem": "http://i.imgur.com/P6xbY6a.gif",
       	"treta": "https://i.imgur.com/3XiQPSH.gif",
       	"tutstuts": "https://dl.dropboxusercontent.com/s/rnz9u2pmuqjsms1/tutstuts.gif",
 	"uau": "https://i.imgur.com/InFJRi3.gif",
@@ -349,6 +364,6 @@
       	"wills3": "https://i.imgur.com/5nIIgVS.jpg",
       	"xablau": "https://i.imgur.com/uEHQSrA.gif",
       	"zoeira": "https://i.imgur.com/zVFnkQU.png",
-      	"zoeiro": "https://i.imgur.com/jBr1NaT.jpg",
- }
+      	"zoeiro": "https://i.imgur.com/jBr1NaT.jpg"
+  }
 }
